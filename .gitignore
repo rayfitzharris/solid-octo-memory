@@ -68,6 +68,25 @@ artifacts/
 *.pidb
 *.svclog
 *.scc
+# RF
+*.bak
+*.cache
+*.dll
+*.log
+*.obj
+*.suo
+*.swp
+*.user
+*ReSharper*
+*resharper*
+_compareTemp
+_notes
+aspnet_client
+bin
+bin/*
+httpd.parse.errors
+obj
+Thumbs.db
 
 # Chutzpah Test files
 _Chutzpah*
